@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.header{
+background: linear-gradient(150deg, rgba(2,0,0,1) 0%, rgba(122,122,122,1) 69%, rgba(255,255,255,1) 99%);;
+background-size: cover;
+background-position: center;
+min-height: 1000px;
+
+
+}
+
+
